@@ -1,1 +1,1 @@
-# Pnuemonia-Dataset
+# Pnuemonia and heart Dataset
